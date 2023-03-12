@@ -22,7 +22,7 @@ header{
 
 #menu{
   width:300px;
-  float:left;
+  margin-left: 0;
   background-color: #ccccff;
 }
 
