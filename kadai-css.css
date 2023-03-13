@@ -2,7 +2,6 @@
 
 header,footer{
   width:1000px;
-  margin:0 auto;
 }
 
 header{
@@ -16,13 +15,11 @@ header{
 
 #main{
   width:700px;
-  margin:0 auto;
   background-color: #ccffcc;
 }
 
 #menu{
   width:300px;
-  margin-left: 0;
   background-color: #ccccff;
 }
 
